@@ -6,31 +6,31 @@
 
 body {
     font-family: 'Inter', sans-serif;
-    background-color: #ffffff; /* Changed to white */
-    color: #333333; /* Updated text color to ensure readability */
+    background-color: #ffffff; 
+    color: #333333; 
     font-size: 14px;
 }
 
 .browser-header {
-    background-color: #f4f4f4; /* Light gray for contrast */
+    background-color: #f4f4f4;
     padding: 5px 0;
 }
 .firefox-section {
     display: flex;
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Align vertically */
-    gap: 20px; /* Add some spacing between text and logo */
+    justify-content: center; 
+    align-items: center; 
+    gap: 20px; 
     margin-top: 30px;
 }
 
 .firefox-text {
     font-size: 24px;
     font-weight: bold;
-    color: #ff7139; /* Firefox brand color */
+    color: #ff7139; 
 }
 
 .firefox-logo {
-    width: 60px; /* Adjust size for a good look */
+    width: 60px; 
     height: auto;
 }
 
@@ -40,7 +40,7 @@ body {
 }
 
 .firefox-link:hover .firefox-text {
-    color: #e66000; /* Darker orange on hover for Firefox text */
+    color: #e66000;
 }
 
 .tab-bar {
@@ -48,27 +48,26 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 5px 15px;
-    background-color: #e0e0e0; /* Light gray tab background */
-}
+    background-color: #e0e0e0; 
 
 .tab {
-    color: #333333; /* Darker text color for contrast */
-    background-color: #cccccc; /* Light gray */
+    color: #333333; 
+    background-color: #cccccc; 
     padding: 5px 10px;
     border-radius: 5px;
     font-weight: 500;
 }
 .firefox-section {
     display: flex;
-    flex-direction: column; /* Stack elements vertically */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Align items in the center */
-    gap: 20px; /* Add spacing between items */
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 20px; 
     margin-top: 30px;
 }
 
 .search-box {
-    margin-top: 10px; /* Adjust the spacing between the logo and the search box */
+    margin-top: 10px; 
 }
 
 .search-box input {
@@ -87,8 +86,8 @@ body {
     padding: 8px;
     border-radius: 20px;
     border: none;
-    background-color: #f0f0f0; /* Light input background */
-    color: #333333; /* Dark text */
+    background-color: #f0f0f0; 
+    color: #333333; 
     font-size: 14px;
 }
 
@@ -106,7 +105,7 @@ body {
     width: 450px;
     padding: 12px;
     border-radius: 20px;
-    border: 1px solid #dddddd; /* Border for input fields */
+    border: 1px solid #dddddd; 
     margin-top: 20px;
     background-color: #f0f0f0;
     color: #333333;
@@ -119,7 +118,7 @@ body {
 }
 
 .link-item {
-    background-color: #f0f0f0; /* Updated for contrast against white background */
+    background-color: #f0f0f0; 
     padding: 12px;
     margin: 0 10px;
     border-radius: 5px;
@@ -157,12 +156,12 @@ body {
 
 body {
     font-family: 'Inter', sans-serif;
-    background-color: #ffffff; /* Changed to white */
+    background-color: #ffffff; 
     color: #333333;
     font-size: 14px;
 }
 
-/* Firefox Section */
+
 .firefox-section {
     display: flex;
     flex-direction: column;
@@ -237,7 +236,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 20px;
-    overflow-x: auto; /* Horizontal scrolling if content exceeds width */
+    overflow-x: auto; 
     padding-bottom: 20px;
 }
 
